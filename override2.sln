@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "override2", "override2.csproj", "{05774B02-3C3D-4768-962A-3BCC00F47547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05774B02-3C3D-4768-962A-3BCC00F47547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05774B02-3C3D-4768-962A-3BCC00F47547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05774B02-3C3D-4768-962A-3BCC00F47547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05774B02-3C3D-4768-962A-3BCC00F47547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA94CD72-5B03-4035-8D91-9C8F825F4800}
+	EndGlobalSection
+EndGlobal
